@@ -1,0 +1,9 @@
+OOPS-->Object orienteed programming tries to map code instruction with real world making the code short and easier to understand.
+
+#CLASS
+A class is a blue-print for creating Objects.
+_____________
+|JEE        |
+|Application| 
+|Form       |
+_____________
